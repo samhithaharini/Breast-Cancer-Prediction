@@ -49,6 +49,7 @@ The dataset used is the Breast Cancer dataset from scikit-learn, consisting of:
 ---
 
 **Steps Involved**
+
 1️⃣ Data Loading
 
 Load the dataset from sklearn
@@ -133,13 +134,19 @@ Reduces overfitting with margin maximization
 **How to Run**
 
 1. Install dependencies
+
 pip install -r requirements.txt
 
+
 2. Run the Jupyter Notebook
+
 jupyter notebook
 
+
 3. Run Streamlit (if added)
+
 streamlit run app.py
+
 
 ---
 
