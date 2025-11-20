@@ -120,17 +120,6 @@ Reduces overfitting with margin maximization
 
 ---
 
-**Project Files**
-
-📁 Breast-Cancer-SVM
-│── svm_cancer_prediction.ipynb
-│── svm_model.pkl
-│── requirements.txt
-│── README.md
-│── app.py (optional, for Streamlit/Flask)
-
----
-
 **How to Run**
 
 1. Install dependencies
